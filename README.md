@@ -1,4 +1,4 @@
 # Testing Projects
 
-Contains projects (either in testing or already done) I did myself.
+Contains some things I tried. (Either in testing or done)
 
